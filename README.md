@@ -15,8 +15,6 @@ Random word generation with a countdown timer.
 
 Increasing difficulty as more words are generated.
 
-**Run It:** Clone the repository and run ILoWord.java in your preferred Java environment.
-
 
 **How Accurately Can We Predict Inflation Using Economic Factors?:**
 
